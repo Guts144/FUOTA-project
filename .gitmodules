@@ -1,0 +1,3 @@
+[submodule "libmosquitto"]
+	path = libmosquitto
+	url = https://github.com/se-edge/mosquitto_mqttv5.git
